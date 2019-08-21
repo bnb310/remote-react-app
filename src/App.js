@@ -1,6 +1,6 @@
 import React from 'react';
 import Counter from './state/Counter'
-import HelloWorld from './state-drills/HelloWorld'
+import renderer from 'react-test-renderer'
 import Tabs from './state/Tabs'
 
 const tabsProp = [
