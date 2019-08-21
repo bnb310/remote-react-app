@@ -1,6 +1,4 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
 import Counter from './state/Counter'
 import HelloWorld from './state-drills/HelloWorld'
 import Tabs from './state/Tabs'
