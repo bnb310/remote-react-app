@@ -16,6 +16,7 @@ function App() {
   return (
     <div>
       <Tabs tabs = {tabsProp} />
+      <DemonymApp />
     </div>
   );
 }
